@@ -4,7 +4,6 @@
     androdid:layout_width="match_parent"
     androdid:layout_height="match_parent"
     >
-
     <fragment
         androdid:id="@+id/placeFragment"
         androdid:name="android.sunnyweather.com.sunnyweather.ui.place.PlaceFragment"
